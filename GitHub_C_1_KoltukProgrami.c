@@ -299,7 +299,7 @@ int musteriTcKontrol(int tcNo_2)
     return 0;
 }
 /*
-Ek olarak fonskiyonlarin sonuna falan:
+Ek olarak fonskiyonlarin sonuna:
 printf("\nAna menuye donmek icin ENTER tusuna basiniz");
 int C7;
 while ((C7 = getchar()) != '\n' && C7 != EOF);
